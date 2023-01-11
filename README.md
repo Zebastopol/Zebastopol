@@ -44,7 +44,7 @@
 
 <p> 
   <a href="https://github.com/Zebastopol?tab=repositories">
-    <img width="350"  align="right" alt="Zebastopol's top langs" 
+    <img width="250"  align="right" alt="Zebastopol's top langs" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zebastopol" />
 
   
