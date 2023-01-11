@@ -164,7 +164,7 @@
 
 <div id="body1" align="left" style="text-align: right" >
   <p><img  align="left" src="https://github.com/Zebastopol/pics_projects/blob/Documentaci%C3%B3n/images/androidpin.png?raw=true"  width="40"></p>
-  <p><h2 align="left">You can reach me 📫:tophat:
+  <p><h2 align="left">You can reach me at 📫:tophat:
   </h2></p>
 </div>
 
@@ -185,7 +185,7 @@
 
   </h4>
   </br>
-  </br>
+  
 
 
 ###
