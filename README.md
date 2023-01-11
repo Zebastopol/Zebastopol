@@ -181,7 +181,7 @@
 
 <h4 align="center"> Thanks for voositing me!
 
-  <img src="https://gifdb.com/images/thumbnail/pixel-art-aesthetic-cute-ghost-3fm9e0u69ko69g2g.gif" align="center" width="3%">
+  <img src="https://gifdb.com/images/thumbnail/pixel-art-aesthetic-cute-ghost-3fm9e0u69ko69g2g.gif" align="center" width="5%">
 
   </h4>
   </br>
