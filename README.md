@@ -180,7 +180,7 @@
 <br>
 
 <h4 align="center"> Thanks for voositing me!
-
+      <p align="center"> <img src="https://komarev.com/ghpvc/?username=Zebastopol&label=Profile%20views&color=0e75b6&style=flat" alt="Zebastopol" /> </p>
   <img src="https://gifdb.com/images/thumbnail/pixel-art-aesthetic-cute-ghost-3fm9e0u69ko69g2g.gif" align="center" width="5%">
 
   </h4>
