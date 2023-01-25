@@ -30,7 +30,7 @@
 - Glide, Picasso
 - DAGGER Hilt
   -Testing
-  - Ask me about more details 💬
+  - Ask me about for more details 💬
 
 
 <br>
