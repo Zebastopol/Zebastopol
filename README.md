@@ -169,19 +169,21 @@
 </div>
 
 
-[![Discord](https://img.shields.io/badge/Discord-sebastopol-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/7FASzPTb)
+[![Discord](https://img.shields.io/badge/Discord-Sebasto_KuroKen-040101?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/7FASzPTb)
 </br>
-[![Instagram](https://img.shields.io/badge/Instagram-@sebastopol-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/deliwings.delivery)
+[![Instagram](https://img.shields.io/badge/Instagram-@deliwings.delivery-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/deliwings.delivery)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebasto_Requena_Pol-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sebastianrequenaa)
+</br>
+[![Web](https://img.shields.io/badge/Google-Sebastopol-DB4A39?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://g.dev/zebastopol)
 
 #
 <br>
 <br>
 
 <h4 align="center"> Thanks for voositing me!
-      <p align="center"> <img src="https://komarev.com/ghpvc/?username=Zebastopol&label=Profile%20views&color=0e75b6&style=flat" alt="Zebastopol" /> </p>
-  <img src="https://gifdb.com/images/thumbnail/pixel-art-aesthetic-cute-ghost-3fm9e0u69ko69g2g.gif" align="center" width="5%">
+      <br> <img src="https://komarev.com/ghpvc/?username=Zebastopol&label=Profile%20views&color=0e75b6&style=flat" alt="Zebastopol" align="center"/> 
+      <br> <img src="https://gifdb.com/images/thumbnail/pixel-art-aesthetic-cute-ghost-3fm9e0u69ko69g2g.gif" align="center" width="5%"></br>
 
   </h4>
   </br>
@@ -189,4 +191,4 @@
 
 
 ###
-:octocat: From [Zebastopol](https://www.github.com/Zebastopol)
+ From [Zebastopol](https://www.github.com/Zebastopol) :octocat: 
