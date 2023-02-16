@@ -157,7 +157,7 @@
 
 
 - Desarrollo de Aplicaciones Móviles Android Trainee [AIEP](https://drive.google.com/file/d/19qDyqdSu0aC57OP6zEsgMbXrmnSKXa2_/view?usp=sharing) 
-- Curso de Android 12 con Kotlin intensivo y práctico 2022 [UDEMY](https://www.udemy.com/course/kotlin-intensivo/)
+- Curso de Android 13 con Kotlin intensivo y práctico 2023 [UDEMY](https://www.udemy.com/course/kotlin-intensivo/)
 - The Complete Web Development 2023  [UDEMY](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 <br>
