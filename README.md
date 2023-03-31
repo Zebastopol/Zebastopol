@@ -2,7 +2,7 @@
       <h1 align="center"> Hi, I'm Sebastopol! 🔰</h1>
       <img src="https://gifdb.com/images/file/pixel-art-super-mario-computer-amwdq1xi8bgz0omx.gif"  width="70%">
       <h3 align="center"> I am a beginner android application developer. I have experience with Java, Kotlin, 
-        and Android Studio projects. I'm searching to my first job at tech industry. I'm very excited to collaborate with a creative work team. 
+        and Android Studio projects. I'm very excited to collaborate with a creative work team. 
         I'm able to keep learning, growing and conjuring spells ✨
       </h3>
         <img align="center" src="https://media.tenor.com/Hl0-BSY1lg8AAAAd/he-man-hypnotic.gif"  width="15%">
