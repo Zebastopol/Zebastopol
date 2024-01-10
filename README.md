@@ -1,7 +1,7 @@
 <div id="header" align="center" >
       <h1 align="center"> Hi, I'm Sebastopol! 🔰</h1>
       <img src="https://gifdb.com/images/file/pixel-art-super-mario-computer-amwdq1xi8bgz0omx.gif"  width="70%">
-      <h3 align="center"> I am a beginner android application developer. I have experience with Java, Kotlin, 
+      <h3 align="center"> I am a beginner android mobile developer. I have experience with Java, Kotlin, 
         and Android Studio projects. I'm very excited to collaborate with a creative work team. 
         I'm able to keep learning, growing and conjuring spells ✨
       </h3>
