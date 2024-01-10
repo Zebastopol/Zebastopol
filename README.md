@@ -12,7 +12,7 @@
 #
 <div id="body1" align="left" style="text-align: right" >
   <p><img  align="left" src="https://github.com/Zebastopol/pics_projects/blob/Documentaci%C3%B3n/images/androidpin.png?raw=true"  width="40"></p>
-  <p><h2 align="left"> Libraries and hi-tech wizardry 🔮:books:
+  <p><h2 align="left"> Libraries and hi-tech wizardry 🔮
   </h2></p>
 </div>
 
