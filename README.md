@@ -37,7 +37,7 @@
   <br>
 <div id="body1" align="left" style="text-align: right" >
   <p><img  align="left" src="https://github.com/Zebastopol/pics_projects/blob/Documentaci%C3%B3n/images/androidpin.png?raw=true"  width="40"></p>
-  <p><h2 align="left"> My initial bagstack 💰:seedling:
+  <p><h2 align="left"> My initial bagstack 💰
   </h2></p>
 </div>
 
@@ -76,8 +76,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Eclipse</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eclipse-SVG.svg/1200px-Eclipse-SVG.svg.png"> 
+<span><b><center>Docker</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/docker/docker-original.svg"> 
 </td>
 
 <td align="center" width="20%">
@@ -102,6 +102,24 @@
 <td align="center" width="20%">
 <span><b><center>Visual Studio</center></b></span> 
 <img height=65px src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Html</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-original.svg" 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Css</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-original.svg" 
+</td>
+
+
+<td align="center" width="20%">
+<span><b><center>Bootstrap</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/bootstrap/bootstrap-original.svg" 
 </td>
 </tr>
   </table>
@@ -141,6 +159,12 @@
 <span><b><center>React</center></b></span> 
 <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"> 
 </td>
+
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=60px src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg"> 
+</td>
+
 </tr>
   </table>
   </tbody>
