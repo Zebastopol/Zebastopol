@@ -181,7 +181,7 @@
 <br>
 <br>
 
-<h4 align="center"> Thanks for boositing me!
+<h4 align="center"> Thx for boositing me!
       <br> <img src="https://komarev.com/ghpvc/?username=Zebastopol&label=Profile%20views&color=0e75b6&style=flat" alt="Zebastopol" align="center"/> 
       <br> <img src="https://gifdb.com/images/thumbnail/pixel-art-aesthetic-cute-ghost-3fm9e0u69ko69g2g.gif" align="center" width="5%"></br>
 
